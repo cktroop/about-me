@@ -1,1 +1,1 @@
-This is the first TripleTen project about me.
+Sprint 0 about me project
